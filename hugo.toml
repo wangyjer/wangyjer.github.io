@@ -38,3 +38,6 @@ theme = "PaperMod"
     url = "/about/"
     weight = 60
     
+[params.homeInfoParams]
+  Title = "记录美好生活！"
+  Content = "点滴的记录犹如涓涓流水，终有一日会流入那山间的湖泊。我们在湖泊旁驻足欣赏，感受人生的美好！"
