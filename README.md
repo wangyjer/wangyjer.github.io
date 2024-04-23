@@ -1,2 +1,0 @@
-# wangyjer.github.io
-Blog
